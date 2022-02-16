@@ -1,24 +1,18 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# アプリケーション名
+派遣の巻
 
-Things you may want to cover:
+## アプリケーション概要
+派遣バイトで失敗を防ぐためのアプリです。
 
-* Ruby version
+## URL
 
-* System dependencies
+## テスト用アカウント
 
-* Configuration
+# 利用方法
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# バイト側の場合
+1.
+2.
+3.
+4.
